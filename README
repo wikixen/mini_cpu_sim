@@ -1,7 +1,7 @@
 # TODO
 - [ ] Setup GPIO addresses for input/output
-- [ ] Setup a UART file & header for debugging
 - [ ] Write main.c for output & input
+- [ ] Setup a UART file & header for debugging(optional)
 - [ ] ...
 
 # RESOURCES
